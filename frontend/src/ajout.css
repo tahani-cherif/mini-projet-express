@@ -1,0 +1,27 @@
+.form{
+    margin-left: 380px;
+  }
+  .button{
+    margin-top: 25px;
+      width: 103px;
+      height: 31px;
+      border-radius: 6px;
+      background: #1976D2;
+      color: white;
+      border-color: #1976D2;
+  }
+  .title{
+    color:#1976D2;
+    font-size: 52px;
+    font-family: none;
+  }
+  .cadre{
+    margin-top: 139px;
+    margin-left: 567px;
+  }
+  .texterr{
+    text-align: left;
+      color: red;
+      font-size: 12px;
+  }
+  
